@@ -1,12 +1,8 @@
-
-//21) Faça um programa que leia N nomes (precisa de alocação dinâmica 
-//de memória) e ordene-os pelo tamanho.
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-#define TAM 100
+#define TAM 50
 
 int main() {
     int N;
